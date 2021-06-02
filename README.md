@@ -1,4 +1,4 @@
-# Online_pizza_ordering_Syatem
+# Online_Pizza_Ordering_System
 This is a mini project for Web Technology.
 <p>This project has a front end and backend.
   For front end we have used hmtl,javascript,php and for backend we have used database<p>
